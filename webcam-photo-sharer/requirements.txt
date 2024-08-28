@@ -1,0 +1,11 @@
+certifi==2024.7.4
+chardet==5.2.0
+docutils==0.21.2
+filestack-python==3.5.0
+idna==3.8
+Kivy==2.3.0
+Kivy-Garden==0.1.5
+pygments==2.18.0
+requests==2.32.3
+trafaret==2.0.2
+urllib3==2.2.2
